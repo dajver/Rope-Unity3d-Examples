@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\RopeExamples\Rope3\Ropes.cs">
+    <Files>
+      <File FileName="Assets\MyPreshes\Scripts\OnCollisionStop.cs" Line="10" Column="3" />
+      <File FileName="Assets\MyPreshes\Scripts\DrawGrappleLine.cs" Line="27" Column="9" />
+      <File FileName="d:\unity3d\Rope\Assets\RopeExamples\RopePack\Rope.cs" Line="45" Column="14" />
+      <File FileName="Assets\RopeExamples\Rope3\Ropes.cs" Line="6" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
